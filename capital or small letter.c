@@ -10,5 +10,6 @@ int main()
         printf("Small Letter");
     else
         printf("Not a letter");
+    getch();
     return 0;
 }
